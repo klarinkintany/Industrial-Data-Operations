@@ -1,0 +1,20 @@
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+
+# Raw datasets
+data/raw/
+
+# Python environments
+.venv/
+venv/
